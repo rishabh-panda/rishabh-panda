@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh Panda!
 - 👀 Interested in software engineering, data science & quantum computing.
 - ⚽ I primarily code using C/C++, Python & MATLAB.
-- 💞️ I’m looking to collaborate on projects regarding software development.
+- 💞️ I’m looking to collaborate on projects regarding sustainable development and natural resource management.
 - 📫 Reach me via: 
 - rishabh.dhv@gmail.com
 - 1904215@kiit.ac.in
