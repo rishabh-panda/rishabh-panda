@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Rishabh Panda!
-- 👀 I’m interested in software engineering, data science & quantum computing. I have strong technical proficiency with work history in machine learning.
+- 👀 Interested in software engineering, data science & quantum computing.
 - ⚽ I primarily code using C/C++, Python & MATLAB.
-- 🌱 I’m always in a race to strengthen my algorithm and programming based concepts.
-- 💞️ I’m looking to collaborate on projects related to SD and ML.
-- 📫 Reach me via <rishabh.dhv@gmail.com>
+- 💞️ I’m looking to collaborate on projects regarding software development.
+- 📫 Reach me via: 
+- rishabh.dhv@gmail.com
+- 1904215@kiit.ac.in
 
 <!---
 rishabh-panda/rishabh-panda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
