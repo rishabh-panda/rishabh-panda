@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishabh Panda!
-- 👀 Interested in software engineering, data science & quantum computing.
+- 👀 Interested in software engineering, data analytics & quantum computing.
 - ⚽ I primarily code using C/C++, Python & MATLAB.
 - 💞️ I’m looking to collaborate on projects regarding sustainable development and natural resource management.
 - 📫 Reach me via: 
