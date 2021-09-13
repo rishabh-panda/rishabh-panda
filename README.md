@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Rishabh Panda!
-- 👀 Interested in software engineering, data analytics & quantum computing.
-- ⚽ I primarily code using C/C++, Python & MATLAB.
+- 👀 Interested in data analytics, software engineering, & quantum computing.
+- ⚽ Languages Used: C/C++, Python, Matrix Laboratory, SciLab 6.1.0.
 - 💞️ I’m looking to collaborate on projects regarding sustainable development and natural resource management.
 - 📫 Reach me via: 
 - rishabh.dhv@gmail.com
-- 1904215@kiit.ac.in
 
 <!---
 rishabh-panda/rishabh-panda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
