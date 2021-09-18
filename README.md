@@ -9,8 +9,8 @@
 - Looking to collaborate with other content creators
 - When I'm bored I spend my time playing 🕹 [**Counter-Strike:**](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) *Condition Zero* 🎮
 - **My Mission:** Contribute more to Open Source Projects
-- **My Motto: 🌎Learn. Achieve. Grow.🌏**
-- Hobbies: Painting🎨 & Calligraphy🖊
+- **My Motto:** 🌎Learn. Achieve. Grow.🌏
+- **Hobbies:** Painting🎨 & Calligraphy🖊
 
 <br />
 
