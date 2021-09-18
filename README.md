@@ -52,7 +52,7 @@ Acquired proficiency in exploratory data analysis and scientific computation. Vi
 
 ---
 
-<img src="https://media.giphy.com/media/fxfmMuGbh5aPtZ9T6j/giphy.gif?cid=790b761149402905ae5665965f9ee3939b6440581440d490&rid=giphy.gif&ct=g" alt="CSGO" width="980">
+<img src="https://media.giphy.com/media/US6odsnLHQxTlqTEeF/giphy.gif?cid=ecf05e47mh0odgn0gbjxday0qmd3xs5j8jmp7b9l16f0qw3n&rid=giphy.gif&ct=g" alt="CSGO" width="980">
 
 
 ---
