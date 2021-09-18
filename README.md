@@ -37,7 +37,7 @@ Gained hands on experience on Data Science and acquired proficiency in handling 
 
 ### LANGUAGES AND TOOLS:
 
- ✅**Python**✅**C/C++**✅**MATLAB**✅**MySQL**✅**GNU Octave**✅**Microsoft Excel**✅**Qiskit**✅**CST Studio Suite**✅**SciLab 6.1.0**
+ ✅ **Python** ✅ **C/C++** ✅ **MATLAB** ✅ **MySQL** ✅ **GNU Octave** ✅ **MS Excel** ✅ **Qiskit** ✅ **CST Studio Suite** ✅ **SciLab 6.1.0**
 
 <br />
 
