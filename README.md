@@ -1,4 +1,4 @@
-## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">  I'm [Panda!](https://www.linkedin.com/in/rishabhpanda/)🐼
+## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">  I'm [PANDA!](https://www.linkedin.com/in/rishabhpanda/)🐼
 
 
 ## A Telecommunication Student 🛰, Nature Lover 🍀 and an aspiring Data Analyst 📊
@@ -16,7 +16,7 @@
 
 ---
 
-### My Experiences:
+### MY EXPERIENCES:
 - [Summer Research Intern](http://www.iitkgp.ac.in/)</br> **Indian Institute of Technology**</br>
 Working closely with the senior faculty and Ph.D. scholars of the Indian Institute of Technology, Kharagpur on 'Remote Sensing' and 'Radar Interferometry' for detecting ground deformation at mining sites of the San Francisco Bay Area, CA by the application of PSInSAR (Persistent Scatterer Interferometric Synthetic Aperture Radar) technique using STUN algorithm.
 - [Data Analysis Intern](https://suvenconsultants.com/)</br> **Suven Consultants and Technology Pvt. Ltd**</br> 
@@ -25,7 +25,17 @@ Acquired proficiency in exploratory data analysis and scientific computation. Vi
 
 ---
 
-### Languages and Tools:
+### TECHNICAL COURSEWORKS AND HACKATHONS:
+- [Quantum Computing and Applications](https://drive.google.com/file/d/1x7Gyp8Rsn4UD7uGcR3mIAf01MWiXrhcc/view)</br> **The Coding School**</br>
+The year-long course consisted of weekly LIVE lectures, labs, and problem sets targeted towards high school and university students. The course, sponsored by IBM Quantum, was an exciting and first of its kind opportunity to learn from MIT researchers and Oxford Quantum scientists about Quantum Computing - a technology that will change the world as we know it.
+- [Hackathon-1](https://certificate.univ.ai/c/12455u23c)</br> **Geoffrey Hinton Fellowship**</br> 
+Gained hands on experience on Data Science and acquired proficiency in handling large datasets.
+- [Big Data Management and Analytics](https://drive.google.com/file/d/1gTKLZotw1hGsTvuCaIchneMiTQDZrAUM/view)</br> **Institute of Management Studies (IMS) Ghaziabad - Business School**</br> 
+<br />
+
+---
+
+### LANGUAGES AND TOOLS:
 
 - ✅ **Python**
 - ✅ **C/C++**
