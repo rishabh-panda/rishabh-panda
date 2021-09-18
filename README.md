@@ -48,7 +48,6 @@ Acquired proficiency in exploratory data analysis and scientific computation. Vi
 - ✅ **SciLab 6.1.0**
 
 <br />
-<br />
 
 ---
 
