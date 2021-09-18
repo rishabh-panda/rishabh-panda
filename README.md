@@ -51,7 +51,7 @@ Acquired proficiency in exploratory data analysis and scientific computation. Vi
 
 ---
 
-# Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="40px">
 <a href="https://www.linkedin.com/in/rishabhpanda/">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
