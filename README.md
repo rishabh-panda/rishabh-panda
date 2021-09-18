@@ -1,16 +1,5 @@
 ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  I'm [Panda!](https://www.linkedin.com/in/rishabhpanda/)🐼
 
-<a href="https://www.linkedin.com/in/rishabhpanda/">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/RishabhHyd">
-  <img align="left" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:rishabh.dhv@gmail.com">
-  <img align="left" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br />
 
 ## I am a Telecommunication Student🛰, Nature Lover🍀 and an aspiring Data Analyst📊.
 
@@ -58,6 +47,20 @@ Acquired proficiency in exploratory data analysis and scientific computation. Vi
 - [Recognizing Handwritten Digits](https://recognition-by-panda.blogspot.com/2021/03/scikit-learn-is-library-for-python-that.html)
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+
+---
+
+# Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<a href="https://www.linkedin.com/in/rishabhpanda/">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/RishabhHyd">
+  <img align="left" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:rishabh.dhv@gmail.com">
+  <img align="left" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <!---
 rishabh-panda/rishabh-panda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
