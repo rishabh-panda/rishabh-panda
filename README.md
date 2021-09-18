@@ -1,12 +1,13 @@
 ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">  I'm [Panda!](https://www.linkedin.com/in/rishabhpanda/)🐼
 
 
-## I am a Telecommunication Student🛰, Nature Lover🍀 and an aspiring Data Analyst📊.
+## I am a Telecommunication Student 🛰, Nature Lover 🍀 and an aspiring Data Analyst 📊
 
 - I am passionate about **Exploratory Data Analysis**, **Quantum Computing** and **Artificial Intelligence** (AI)
 - I primarily code using **C/C++**, **Python** & **MATLAB** and have hands-on experience in programming fundamental quantum algorithms at [**'IBM-Quantum Experience'**](https://quantum-computing.ibm.com/) using **Qiskit**
 - Currently I'm learning the fundamentals of Data Science & Machine Learning
 - Looking to collaborate with other content creators
+- When I'm bored I spend my time playing 🕹 [**Counter-Strike:**](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) *1.6/Condition Zero* 🎮
 - **My Mission:** Contribute more to Open Source Projects
 - **My Motto: 🌎Learn. Achieve. Grow.🌏**
 - Hobbies: Painting🎨 & Calligraphy🖊
