@@ -1,4 +1,4 @@
-## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  I'm [Panda!](https://www.linkedin.com/in/rishabhpanda/)🐼
+## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">  I'm [Panda!](https://www.linkedin.com/in/rishabhpanda/)🐼
 
 
 ## I am a Telecommunication Student🛰, Nature Lover🍀 and an aspiring Data Analyst📊.
@@ -51,16 +51,15 @@ Acquired proficiency in exploratory data analysis and scientific computation. Vi
 
 ---
 
-# Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="40px">
-<a href="https://www.linkedin.com/in/rishabhpanda/">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/RishabhHyd">
-  <img align="left" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:rishabh.dhv@gmail.com">
-  <img align="left" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+<img src="https://media.giphy.com/media/fxfmMuGbh5aPtZ9T6j/giphy.gif?cid=790b761149402905ae5665965f9ee3939b6440581440d490&rid=giphy.gif&ct=g" alt="CSGO" width="980">
+
+
+---
+
+# Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="50px">
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rishabhpanda) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/RishabhHyd) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="40">](https://www.hackerrank.com/h1904215) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/15413499/rishabh-panda?tab=profile) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rishabh.dhv@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|
 <!---
 rishabh-panda/rishabh-panda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
