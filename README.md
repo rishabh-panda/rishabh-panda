@@ -48,7 +48,7 @@ GHF is a community for identifying the top talent in the country from amongst a 
 
 <!-- BLOG-POST-LIST:START -->
 - [Performing Analysis of Meteorological Data](https://analysis-by-panda.blogspot.com/2021/03/the-null-hypothesis-has-apparent.html)
-- [Recognizing Handwritten Digits](https://recognition-by-panda.blogspot.com/2021/03/scikit-learn-is-library-for-python-that.html)
+- [Recognizing Handwritten Digits with SciKit Learn](https://recognition-by-panda.blogspot.com/2021/03/scikit-learn-is-library-for-python-that.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
