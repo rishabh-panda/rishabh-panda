@@ -18,19 +18,20 @@
 
 ### MY EXPERIENCES:
 - [Summer Research Intern](http://www.iitkgp.ac.in/)</br> **Indian Institute of Technology**</br>
-Working closely with the senior faculty and Ph.D. scholars of the Indian Institute of Technology, Kharagpur on 'Remote Sensing' and 'Radar Interferometry' for detecting ground deformation at mining sites of the San Francisco Bay Area, CA by the application of PSInSAR (Persistent Scatterer Interferometric Synthetic Aperture Radar) technique using STUN algorithm.
+Working closely with the senior faculty and Ph.D. scholars of the Indian Institute of Technology, Kharagpur on 'Remote Sensing' and 'Radar Interferometry' for detecting ground deformation at mining sites of the San Francisco Bay Area, CA by the application of PSInSAR (Persistent Scatterer Interferometric Synthetic Aperture Radar) technique using STUN algorithm. </br></br>
 - [Data Analysis Intern](https://suvenconsultants.com/)</br> **Suven Consultants and Technology Pvt. Ltd**</br> 
-Acquired proficiency in exploratory data analysis and scientific computation. Visualized the potential changes in hourly temperature and humidity for 10 consecutive years due to global warming corresponding to Finland, a country in the northern Europe.
+Acquired proficiency in exploratory data analysis and scientific computation. [Visualized](https://github.com/rishabh-panda/DataAnalysis/blob/main/Finland%20Weather%20Data%20Analysis.ipynb) the potential changes in hourly temperature and humidity for 10 consecutive years due to global warming corresponding to Finland, a country in the northern Europe.
 <br />
 
 ---
 
 ### TECHNICAL COURSEWORKS AND HACKATHONS:
 - [Quantum Computing and Applications](https://drive.google.com/file/d/1x7Gyp8Rsn4UD7uGcR3mIAf01MWiXrhcc/view)</br> **The Coding School**</br>
-The year-long course consisted of weekly LIVE lectures, labs, and problem sets targeted towards high school and university students. The course, sponsored by IBM Quantum, was an exciting and first of its kind opportunity to learn from MIT researchers and Oxford Quantum scientists about Quantum Computing - a technology that will change the world as we know it.
-- [Hackathon-1](https://certificate.univ.ai/c/12455u23c)</br> **Geoffrey Hinton Fellowship**</br> 
-Gained hands on experience on Data Science and acquired proficiency in handling large datasets.
-- [Big Data Management and Analytics](https://drive.google.com/file/d/1gTKLZotw1hGsTvuCaIchneMiTQDZrAUM/view)</br> **Institute of Management Studies (IMS) Ghaziabad - Business School**</br> 
+The year-long course, sponsored by [IBM Quantum](https://www.ibm.com/quantum-computing/) consisted of weekly LIVE lectures, labs, and problem sets targeted towards high school and university students. The course was an exciting and first of its kind opportunity to learn from MIT researchers and Oxford Quantum scientists about Quantum Computing - a technology that will change the world as we know it. </br></br>
+- [Hackathon-1 Geoffrey Hinton Fellowship](https://certificate.univ.ai/c/12455u23c)</br> **Geoffrey Hinton Fellowship**</br> 
+GHF is a community for identifying the top talent in the country from amongst a pool of high potential Artificial Intelligence, Machine learning & Data Science enthusiasts who would like to leverage the knowledge and learning opportunities that the fellowship brings. I gained hands on experience on Data Science and acquired proficiency in handling large datasets. Geoffrey Hinton Fellows will be selected from top hackathon performers on the basis of hackathon scores followed by an interview. </br></br>
+- [Getting Started with AWS-Machine Learning](https://www.coursera.org/account/accomplishments/verify/YFUJFU3F6PEN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)</br> **Coursera Certifications**</br> Learnt fundamentals behind building, training and deploying a model using [Amazon SageMaker](https://aws.amazon.com/sagemaker/) with built-in algorithms and Jupyter Notebook instance. SageMaker is a fully managed machine learning service that helps you create powerful machine learning models. With SageMaker, data scientists and developers can build and train machine learning models, and then directly deploy them into a production-ready hosted environment.</br></br>
+- [Big Data Management and Analytics](https://drive.google.com/file/d/1gTKLZotw1hGsTvuCaIchneMiTQDZrAUM/view)</br> **Institute of Management Studies (IMS) Ghaziabad - Business School**</br> IMS Ghaziabad was Started in 1990 by some creative thinkers and cerebrals to impart value-based education in a thought-provoking and novel milieu, favourable for the overall development of its students. Ever since its commencement the group has promoted entrepreneurship, new ideas and technological innovations among its students to make them the future leaders of the professional world.
 <br />
 
 ---
