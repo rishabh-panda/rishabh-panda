@@ -7,7 +7,7 @@
 - I primarily code using **C/C++**, **Python** & **MATLAB** and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using **Qiskit**
 - Currently I'm learning & improving myself in the art of programming 👨‍💻
 - Looking to collaborate with other contributors and tech-maestros
-- When I'm bored I spend my time playing 🕹 [**Counter-Strike:**](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) *Condition Zero* 🎮
+- When I'm bored I spend my time playing 🕹 [**Counter-Strike:**](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) 🎮 or simply take a nap 😴
 - **My Mission:** Contribute more to Open Source Projects
 - **My Motto:** 🌎Learn. Achieve. Grow.🌏
 - **Hobbies:** Painting🎨 & Calligraphy🖊
@@ -18,7 +18,7 @@
 ---
 
 ### MY EXPERIENCES:
-- [**Summer Research Intern**](http://www.iitkgp.ac.in/)</br> **Indian Institute of Technology**</br>
+- [**Summer Research Intern**](http://www.iitkgp.ac.in/)</br> **Indian Institute of Technology, Kharagpur**</br>
 Working closely with the senior faculty and Ph.D. scholars of the Indian Institute of Technology, Kharagpur on 'Remote Sensing' and 'Radar Interferometry' for detecting ground deformation at mining sites of the San Francisco Bay Area, CA by the application of PSInSAR (Persistent Scatterer Interferometric Synthetic Aperture Radar) technique using STUN algorithm. </br></br>
 - [**Data Analysis Intern**](https://suvenconsultants.com/)</br> **Suven Consultants and Technology Pvt. Ltd**</br> 
 Acquired proficiency in exploratory data analysis and scientific computation. [Visualized](https://github.com/rishabh-panda/DataAnalysis/blob/main/Finland%20Weather%20Data%20Analysis.ipynb) the potential changes in hourly temperature and humidity for 10 consecutive years due to global warming corresponding to Finland, a country in the northern Europe.
