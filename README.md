@@ -11,7 +11,7 @@
 - **My Mission:** Contribute more to Open Source Projects
 - **My Motto:** 🌎Learn. Achieve. Grow.🌏
 - **Hobbies:** Painting🎨 & Calligraphy🖊
-- Click [**HERE**](https://drive.google.com/file/d/1h6cL4qHbxvSZP7jOWYV1emNWt4YvSm9r/view?usp=sharing) to check out mah Resumé📚📑
+- [**Click Here**](https://drive.google.com/file/d/1h6cL4qHbxvSZP7jOWYV1emNWt4YvSm9r/view?usp=sharing) to check out mah Resumé📚📑
 
 <br />
 
