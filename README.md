@@ -5,7 +5,7 @@
 
 - I am passionate about **Exploratory Data Analysis**, **Quantum Computing** and **Artificial Intelligence** (AI)
 - I primarily code using **C/C++**, **Python** & **MATLAB** and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using **Qiskit** SDK
-- Currently I'm learning & improving myself in the art of programming 👨‍💻
+- Currently, I'm learning & improving myself in the art of programming 👨‍💻
 - Looking to collaborate with other contributors and tech-maestros
 - When I'm bored I spend my time playing 🕹 [**Counter-Strike:**](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) 🎮 or simply take a nap 😴
 - **My Mission:** Contribute more to Open Source Projects
