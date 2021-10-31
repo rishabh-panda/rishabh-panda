@@ -47,7 +47,7 @@ GHF is a community for identifying the top talent in the country from amongst a 
 
 ![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishabh-panda&theme=onedark&show_icons=true&count_private=true)
 
-<br />
+
 ---
 
 ### 📕 Blog Posts
