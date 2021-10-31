@@ -73,7 +73,7 @@ GHF is a community for identifying the top talent in the country from amongst a 
 <br />
 
 <p> 
- Visitor Number <img src="https://profile-counter.glitch.me/rishabh-panda/count.svg" />
+ <img src="https://profile-counter.glitch.me/rishabh-panda/count.svg" />
 </p>
 
 
