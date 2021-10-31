@@ -41,8 +41,6 @@ GHF is a community for identifying the top talent in the country from amongst a 
 
  | **Python 3** | **C/C++** | **MATLAB** | **MySQL** | **GNU Octave 6.3.0** | **Microsoft Excel** | **Qiskit** | **CST Studio Suite 2019** | **SciLab 6.1.0**
 
-<br />
-
 ---
 
 ![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishabh-panda&theme=onedark&show_icons=true&count_private=true)
