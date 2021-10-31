@@ -1,4 +1,4 @@
-## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">  this is [Panda](https://www.linkedin.com/in/rishabhpanda/)! 🐼 <img align = "right" src="https://profile-counter.glitch.me/rishabh-panda/count.svg" />
+## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">  this is [Panda](https://www.linkedin.com/in/rishabhpanda/)! 🐼
 
 
 ## A Telecommunication Student 🛰, Nature Lover 🍀 and aspiring Data Analyst 📊
@@ -69,6 +69,7 @@ GHF is a community for identifying the top talent in the country from amongst a 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="35">](https://www.linkedin.com/in/rishabhpanda) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="35">](https://twitter.com/RishabhHyd) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="42">](https://www.hackerrank.com/h1904215) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/15413499/rishabh-panda?tab=profile) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="35">](mailto:rishabh.dhv@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|
 
+<br /> <img src="https://profile-counter.glitch.me/rishabh-panda/count.svg" />
 
 <!---
 rishabh-panda/rishabh-panda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
