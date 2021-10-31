@@ -39,7 +39,7 @@ GHF is a community for identifying the top talent in the country from amongst a 
 
 ### LANGUAGES AND TOOLS:
 
- | **Python 3** | **C/C++** | **MATLAB** | **MySQL** | **GNU Octave 6.3.0** | **Microsoft Excel** | **Qiskit** | **CST Studio Suite 2019** | **SciLab 6.1.0**
+ | **C/C++** | **Python 3** | **MATLAB** | **MySQL** | **GNU Octave 6.3.0** | **Microsoft Excel** | **Qiskit** | **CST Studio Suite 2019** | **SciLab 6.1.0**
 
 ---
 
