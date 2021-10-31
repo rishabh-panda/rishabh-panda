@@ -45,6 +45,9 @@ GHF is a community for identifying the top talent in the country from amongst a 
 
 ---
 
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishabh-panda&theme=onedark&show_icons=true&count_private=true)
+---
+
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -65,6 +68,15 @@ GHF is a community for identifying the top talent in the country from amongst a 
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="35">](https://www.linkedin.com/in/rishabhpanda) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="35">](https://twitter.com/RishabhHyd) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="42">](https://www.hackerrank.com/h1904215) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/15413499/rishabh-panda?tab=profile) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="35">](mailto:rishabh.dhv@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|
+
+
+<br />
+
+<p> 
+ Visitor Number <img src="https://profile-counter.glitch.me/rishabh-panda/count.svg" />
+</p>
+
+
 <!---
 rishabh-panda/rishabh-panda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
