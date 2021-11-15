@@ -1,4 +1,4 @@
-## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">  this is [Panda](https://www.linkedin.com/in/rishabhpanda/)! 🐼
+## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">  I'm [Panda](https://www.linkedin.com/in/rishabhpanda/)! 🐼
 
 
 ## A Telecommunication Student 🛰, Nature Lover 🍀 and aspiring Data Analyst 📊
