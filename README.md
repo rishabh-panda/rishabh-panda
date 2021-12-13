@@ -3,7 +3,7 @@
 
 ## A Telecommunication Student 🛰, Nature Lover 🍀 and aspiring Data Analyst 📊
 
-- I am passionate about **Exploratory Data Analysis**, **Quantum Computing** and **Cryptography**
+- I am passionate about **Exploratory Data Analysis**, and **Quantum Computing**
 - I primarily code using **C/C++**, **Python** & **MATLAB** and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using **Qiskit** SDK
 - Currently, I'm learning to make Coffee ☕ & improving myself in the art of programming 👨‍💻
 - Looking to collaborate with other contributors and tech-maestros
