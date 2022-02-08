@@ -10,7 +10,7 @@
 - When I'm bored I spend my time playing 🕹 [**Counter-Strike:**](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) 🎮 or simply take a nap 😴
 - **My Mission:** Building a sustainable future.
 - **My Motto:** 🌎Learn. Achieve. Grow.🌏
-- **Hobbies:** Painting🎨, Sketching✏ & Calligraphy🖊
+- **Hobbies:** Painting🎨, Sketching & Calligraphy🖊
 - [**Click Here**](https://drive.google.com/file/d/1h6cL4qHbxvSZP7jOWYV1emNWt4YvSm9r/view?usp=sharing) to check out my Resumé📚📑
 
 <br />
