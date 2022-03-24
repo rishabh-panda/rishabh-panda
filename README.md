@@ -39,15 +39,9 @@ GHF is a community for identifying the top talent in the country from amongst a 
 
 ### LANGUAGES AND TOOLS:
 
-```C/C++``` | ```Python3``` | ```MATLAB``` | ```MySQL``` | ```JAVA``` | ```GNU Octave```
+```C/C++``` | ```Python3``` | ```MATLAB``` | ```MySQL``` | ```JAVA``` | ```GNU Octave``` | ```NumPy``` | ```SciPy``` | ```Pandas``` | ```Matplotlib``` | ```Seaborn``` | ```Keras``` | ```JDBC``` | ```SciLab```
 <br />
-```NumPy``` | ```SciPy``` | ```Pandas``` | ```Matplotlib``` | ```Seaborn``` | ```Keras```
-<br />
-```Sklearn``` | ```XGBoost``` | ```Streamlit``` | ```SpeechRecognition``` | ```JDBC```
-<br />
-```Servlets``` | ```Google Data Studio``` | ```Tableau``` | ```Tensorflow```
-<br />
-```Microsoft Excel``` | ```Qiskit``` | ```CST Studio Suite``` | ```SciLab```
+```Sklearn``` | ```XGBoost``` | ```Streamlit``` | ```SpeechRecognition``` | ```Servlets``` | ```Google Data Studio``` | ```Tableau``` | ```Tensorflow``` | ```MS Excel``` | ```Qiskit```
 
 ---
 
