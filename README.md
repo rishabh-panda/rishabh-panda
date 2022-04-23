@@ -1,7 +1,7 @@
 ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">  I'm [Panda](https://www.linkedin.com/in/rishabhpanda/)! 🐼
 
 
-## A Telecommunication Student 🛰, aspiring Data Analyst 📊, and Nature Lover 🍀
+## An electronics engineer 🛰, aspiring Data Analyst 📊, and Nature Lover 🍀
 
 - I am passionate about **ML**, **Data Analysis**, and **Quantum Computing**
 - I primarily code using ```C/C++```, ```Python``` and ```MATLAB``` and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using ```Qiskit``` SDK
