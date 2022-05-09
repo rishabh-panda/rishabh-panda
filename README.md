@@ -3,14 +3,15 @@
 
 ## An Electronics Engineer 📟 Practicing Data Analytics 📊
 
-- I am passionate about **ML**, **Data Analysis**, and **Quantum Computing**
+- I am passionate about **ML**, **Data Analytics**, and **Quantum Computing**
 - I primarily code using ```C/C++```, ```Python``` and ```MATLAB``` and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using ```Qiskit``` SDK
 - Currently, I'm learning to make Coffee ☕ & improving myself in the art of programming 👨‍💻
 - When I'm bored I spend my time playing 🕹 [**Counter-Strike:**](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) 🎮 or simply take a nap 😴
 - **My Mission:** Building a sustainable future.
-- **My Motto:** 🌎Learn. Achieve. Grow.🌏
-- **Hobbies:** Painting🎨, Sketching & Calligraphy🖊
-- [**Click Here**](https://drive.google.com/file/d/1h6cL4qHbxvSZP7jOWYV1emNWt4YvSm9r/view?usp=sharing) to check out my Resumé📚📑
+- **My Motto:** **Learn. Achieve. Grow.**
+- **Hobbies:** Art 🎨 & Calligraphy 🖊
+- Check out my [**Resumé**](https://drive.google.com/file/d/1h6cL4qHbxvSZP7jOWYV1emNWt4YvSm9r/view?usp=sharing) 📑
+- Follow me on [**Medium**](https://medium.com/@rishabh.panda) 📚
 
 <br />
 
