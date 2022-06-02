@@ -55,7 +55,7 @@ GHF is a community for identifying the top talent in the country from amongst a 
 <!-- BLOG-POST-LIST:START -->
 - IEEE - Geoscience And Remote Sensing Society (GRSS) - InGARSS 2021 [Estimation of ground displacement in San Francisco bay area using a Spatio Temporal Unwrapping Network (STUN) based PSINSAR algorithm.](https://www.ingarss2021.com/view_paper.php?PaperNum=1222)
 - 8 Common Data Viz Techniques With Code: [Medium](https://link.medium.com/R6U5ob0Qspb)
-- Data Analytics: [Performing Analysis of Meteorological Data](https://analysis-by-panda.blogspot.com/2021/03/the-null-hypothesis-has-apparent.html)
+- Met Data Analytics: [Performing Analysis of Meteorological Data](https://analysis-by-panda.blogspot.com/2021/03/the-null-hypothesis-has-apparent.html)
 - Digit Recognition: [Recognizing Handwritten Digits with SciKit Learn](https://recognition-by-panda.blogspot.com/2021/03/scikit-learn-is-library-for-python-that.html)
 <!-- BLOG-POST-LIST:END -->
 
