@@ -1,7 +1,7 @@
 ## Hi There, I'm [Panda](https://www.linkedin.com/in/rishabhpanda/)! 🐼
 
 
-## An Electronics Engineer 📟 Practicing Data Analytics 📊
+## An Electronics Engineer 📟 Practising Data Analytics 📊
 
 - I am passionate about **ML**, **Data Analytics**, and **Quantum Computing**
 - I primarily code using ```C/C++```, ```Python``` and ```MATLAB``` and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using ```Qiskit``` SDK
