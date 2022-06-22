@@ -6,7 +6,6 @@
 - I am passionate about **ML**, **Data Analytics**, and **Quantum Computing**
 - I primarily code using ```C/C++```, ```Python``` and ```MATLAB``` and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using ```Qiskit``` SDK
 - Currently, I'm learning to make Coffee ☕ & improving myself in the art of programming 👨‍💻
-- When I'm bored I spend my time playing 🕹 [**Counter-Strike:**](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) 🎮 or simply take a nap 😴
 - **My Mission:** Building a sustainable future.
 - **My Motto:** **Learn. Achieve. Grow.**
 - **Hobbies:** Art 🎨 & Calligraphy 🖊
