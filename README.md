@@ -3,10 +3,9 @@
 
 ## An Electronics Engineer 📟 Practising Data Analytics 📊
 
-- I am passionate about **ML**, **Data Analytics**, and **Quantum Computing**
-- I primarily code using ```C/C++```, ```Python``` and ```MATLAB``` and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using ```Qiskit``` SDK
-- Currently, I'm learning to make Coffee ☕ & improving myself in the art of programming 👨‍💻
-- **My Mission:** Building a sustainable future.
+- I am passionate about **Data & Business Analytics**, and **Quantum Computing**
+- I primarily code using ```C/C++``` and ```Python``` and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using ```Qiskit``` SDK 👨‍💻
+- **My Mission:** Building a technologically sustainable future.
 - **My Motto:** **Learn. Achieve. Grow.**
 - **Hobbies:** Art 🎨 & Calligraphy 🖊
 - Check out my [**Résumé**](https://drive.google.com/file/d/1h6cL4qHbxvSZP7jOWYV1emNWt4YvSm9r/view?usp=sharing) 📑
@@ -17,6 +16,8 @@
 ---
 
 ### MY EXPERIENCES:
+- [**Product Engineering Intern**](https://www.highradius.com/)</br> **HighRadius Technologies Pvt Ltd**</br>
+Developed a Full-stack AI-Enabled FinTech B2B Invoice Management Application. Cleaned the raw data with dimension 19x50k to improve the model efficiency and achieved 81.43% coefficient of determination in customer payment date prediction. Finally, improved the regression model score by 28% and reduced the mean squared error (MSE) by 48.9%.</br></br>
 - [**Machine Learning Intern**](http://www.iitkgp.ac.in/)</br> **Indian Institute of Technology, Kharagpur**</br>
 Worked closely with the senior faculty and Ph.D. scholars of the Indian Institute of Technology, Kharagpur on 'Remote Sensing' and 'Radar Interferometry' for detecting ground deformation at mining sites of the San Francisco Bay Area, CA. </br></br>
 - [**Data Analytics Intern**](https://internship.suvenconsultants.com/user/?u=MTkwNDIxNUBzY3RwbA==)</br> **Suven Consultants and Technology Pvt. Ltd**</br> 
@@ -52,7 +53,7 @@ GHF is a community for identifying the top talent in the country from amongst a 
 ### 📕 Publications & Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- IEEE - Geoscience And Remote Sensing Society (GRSS) - InGARSS 2021 [Estimation of ground displacement in San Francisco bay area using a Spatio Temporal Unwrapping Network (STUN) based PSINSAR algorithm.](https://www.ingarss2021.com/view_paper.php?PaperNum=1222)
+- IEEE - Geoscience And Remote Sensing Society (GRSS) - InGARSS 2021 [Estimation of ground displacement in San Francisco bay area using a Spatio Temporal Unwrapping Network (STUN) based PSINSAR algorithm.](https://ieeexplore.ieee.org/document/9792114)
 - 8 Common Data Viz Techniques With Code: [Medium](https://link.medium.com/R6U5ob0Qspb)
 - Met Data Analytics: [Performing Analysis of Meteorological Data](https://analysis-by-panda.blogspot.com/2021/03/the-null-hypothesis-has-apparent.html)
 - Digit Recognition: [Recognizing Handwritten Digits with SciKit Learn](https://recognition-by-panda.blogspot.com/2021/03/scikit-learn-is-library-for-python-that.html)
