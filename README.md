@@ -3,25 +3,14 @@
 
 ## An Electronics Engineer 📟 Practising Data Analytics 📊
 
-- I am passionate about **Data & Business Analytics**, and **Quantum Computing**
-- I primarily code using ```C/C++``` and ```Python``` and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using ```Qiskit``` SDK 👨‍💻
+- I am passionate about **Data & Business Analytics**
+- I primarily code using ```Python``` and ```C/C++``` and have hands-on experience in programming fundamental quantum algorithms at [**IBM-Quantum Experience**](https://quantum-computing.ibm.com/) using ```Qiskit``` SDK 👨‍💻
 - **My Mission:** Building a technologically sustainable future.
 - **My Motto:** **Learn. Achieve. Grow.**
 - **Hobbies:** Art 🎨 & Calligraphy 🖊
 - Check out my [**Résumé**](https://drive.google.com/file/d/1h6cL4qHbxvSZP7jOWYV1emNWt4YvSm9r/view?usp=sharing) 📑
 - Follow me on [**Medium**](https://medium.com/@rishabh.panda) 📚
 
-<br />
-
----
-
-### MY EXPERIENCES:
-- [**Product Engineering Intern**](https://www.highradius.com/)</br> **HighRadius Technologies Pvt Ltd**</br>
-Developed a Full-stack AI-Enabled FinTech B2B Invoice Management Application. Cleaned the raw data with dimension 19x50k to improve the model efficiency and achieved 81.43% coefficient of determination in customer payment date prediction. Finally, improved the regression model score by 28% and reduced the mean squared error (MSE) by 48.9%.</br></br>
-- [**Machine Learning Intern**](http://www.iitkgp.ac.in/)</br> **Indian Institute of Technology, Kharagpur**</br>
-Worked closely with the senior faculty and Ph.D. scholars of the Indian Institute of Technology, Kharagpur on 'Remote Sensing' and 'Radar Interferometry' for detecting ground deformation at mining sites of the San Francisco Bay Area, CA. </br></br>
-- [**Data Analytics Intern**](https://internship.suvenconsultants.com/user/?u=MTkwNDIxNUBzY3RwbA==)</br> **Suven Consultants and Technology Pvt. Ltd**</br> 
-Acquired proficiency in exploratory data analysis and scientific computation. [Visualized](https://github.com/rishabh-panda/DataAnalysis/blob/main/Finland%20Weather%20Data%20Analysis.ipynb) the potential changes in hourly temperature and humidity for 10 consecutive years due to global warming corresponding to Finland, a country in the northern Europe.
 <br />
 
 ---
