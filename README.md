@@ -19,5 +19,5 @@ I'm a Business Analytics Professional with a strong retail background, specializ
 - **Business Intelligence:** Tableau, Power BI
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhpanda) to discuss analytics, data, or anything tech-related.
-
+---
 ![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabh-panda&theme=onedark&show_icons=true&count_private=true)
