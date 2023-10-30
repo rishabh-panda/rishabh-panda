@@ -58,7 +58,7 @@ GHF is a community for identifying the top talent in the country from amongst a 
 # Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="50px">
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="35">](https://www.linkedin.com/in/rishabhpanda) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksForGeeks Logo" width="42">](https://auth.geeksforgeeks.org/user/rishabhdhv/profile) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/15413499/rishabh-panda?tab=profile) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="35">](mailto:rishabh.dhv@gmail.com) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="42">](https://www.hackerrank.com/rishabhpanda)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 
 # Visitor Number
 <br /> <img src="https://profile-counter.glitch.me/rishabh-panda/count.svg" />
