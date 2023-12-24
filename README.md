@@ -12,12 +12,12 @@ A Business Analytics Professional with a strong retail background, specializing 
 
 ### Technical Skills
 
-- **Programming:** Python, SQL, C++
-- **Database:** SQL Server, Amazon Redshift
-- **Data Analysis:** Pandas, NumPy, Dash, Dask
-- **Data Visualization:** Plotly, Matplotlib, Seaborn
-- **Business Intelligence:** Tableau, Alteryx
-- **Designing:** Figma
+- **Programming:** ```Python```, ```SQL```, ```C++```
+- **Database:** ```SQL Server```, ```Amazon Redshift```
+- **Data Analysis:** ```Pandas```, ```NumPy```, ```Dash```, ```Dask```
+- **Data Visualization:** ```Plotly```, ```Matplotlib```, ```Seaborn```
+- **Business Intelligence:** ```Tableau```, ```Alteryx```
+- **Designing:** ```Figma```
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhpanda) to discuss analytics, data, or anything tech-related.
 
