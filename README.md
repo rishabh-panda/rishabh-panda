@@ -5,17 +5,17 @@ A Business Analytics Professional with a strong retail background, specializing 
 ### Professional Highlights
 
 - 💼 Strong background in retail analytics.
-- 🐍 Pythonista passionate about writing clean and efficient code.
-- 📊 Expertise in SQL server database management and query optimization.
-- 📝 Published technical blogs to share knowledge.
+- 🐍 Passionate about writing clean and optimized scripts.
+- 📊 Expertise in Relational Database Management Systems (RDBMS).
+- 📝 Loves publishing technical blogs, newsletters and threads.
 - 🚀 Committed to making data accessible and actionable for businesses.
 
 ### Technical Skills
 
 - **Programming:** Python, SQL, C++
-- **Database:** SQL Server
-- **Data Analysis:** Pandas, NumPy, Dash
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Database:** SQL Server, Amazon Redshift
+- **Data Analysis:** Pandas, NumPy, Dash, Dask
+- **Data Visualization:** Plotly, Matplotlib, Seaborn
 - **Business Intelligence:** Tableau, Alteryx
 - **Designing:** Figma
 
