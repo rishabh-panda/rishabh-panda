@@ -7,19 +7,17 @@ A Business Analytics Professional with a strong retail background, specializing 
 - 💼 Strong background in retail analytics.
 - 🐍 Passionate about writing clean and optimized scripts.
 - 📊 Expertise in Relational Database Management Systems (RDBMS).
-- 📝 Loves publishing technical blogs, newsletters and threads.
+- 📝 Loves publishing technical blogs, newsletters, and threads.
 - 🚀 Committed to making data accessible and actionable for businesses.
 
 ### Technical Skills
 
-- **Programming:** ```Python```, ```SQL```, ```C++```
-- **Database:** ```SQL Server```, ```Amazon Redshift```
-- **Data Analysis:** ```Pandas```, ```NumPy```, ```Dash```, ```Dask```
-- **Data Visualization:** ```Plotly```, ```Matplotlib```, ```Seaborn```
-- **Business Intelligence:** ```Tableau```, ```Alteryx```
-- **Designing:** ```Figma```
+- **Languages & Tools:** ```Python```, ```SQL```, ```C/C++```, ```HTML```, ```CSS```, ```Git```, ```OpenAI```
+- **Python Libraries:** ```Pandas```, ```Dash```, ```Dask```, ```NLTK```, ```TableauHyperAPI```, ```NumPy```
+- **Data Visualization:** ```Plotly```, ```Matplotlib```, ```Seaborn```, ```ggplot```
+- **Tech Stack:** ```Visual Studio Code```, ```SSMS```, ```DBeaver```, ```Alteryx```, ```Tableau```, ```Advanced Excel```
+- **AWS Services:** ```Amazon Redshift```, ```Amazon S3 Buckets```, ```Amazon EC2```
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhpanda) to discuss analytics, data, or anything tech-related.
-
 
 ![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabh-panda&theme=onedark&show_icons=true&count_private=true)
