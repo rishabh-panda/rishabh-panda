@@ -11,7 +11,7 @@ Business Analyst with experience in the retail sector. Demonstrated expertise in
 
 ### Professional Experience
 
-- **Bain & Company (Bain Capability Centre India Pvt Ltd), Analyst**  
+- **Bain & Company | Analyst**  
   _Jan 2024 – present_  
   Gurugram, India  
   - Reprogrammed client-side Alteryx Designer workflows into optimized Python scripts, incorporating ETL processes to reduce execution time by 27% and significantly enhance data processing efficiency and workflow automation.
@@ -19,14 +19,14 @@ Business Analyst with experience in the retail sector. Demonstrated expertise in
   - Hosted a session in the Retail CoE, which comprises around 100 individuals, showcasing innovative business use cases solved with Python, including those integrated with AI, highlighting the practical applications achieved.
   - Utilized Dask framework for parallel computing & distributed data processing, effectively handling Big Data.
 
-- **Bain & Company (Bain Capability Centre India Pvt Ltd), Analyst Intern**  
+- **Bain & Company | Analyst Intern**  
   _Jan 2023 – Dec 2023_  
   Gurugram, India  
   - Developed dynamic web applications using the Dash framework to overcome specific functional & visualization limitations inherent in Tableau.
   - Managed SQL Server databases for over 7 projects, writing complex queries, improving scalability.
   - Built a custom Python tool to streamline client-end raw data uploads, featuring a user-friendly menu for data manipulation directly on the server, improving efficiency and client data processing capabilities.
 
-- **Highradius Technologies Pvt Ltd, Product Engineering Intern**  
+- **Highradius Technologies Pvt Ltd | Product Engineering Intern**  
   _Jan 2022 – Apr 2022_  
   Bhubaneswar, India  
   - Created an advanced FinTech web application for managing B2B invoices, integrating AI capabilities.
