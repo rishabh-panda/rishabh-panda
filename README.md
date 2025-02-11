@@ -14,7 +14,7 @@ Results-driven analyst with 2+ years of experience in planning, building and tes
 ### Technical Skills
 
 - **Languages & Tools:** ```Python```, ```SQL```, ```C/C++```, ```HTML```, ```CSS```, ```Git```, ```OpenAI```
-- **Python Libraries:** ```Pandas```, ```Dash```, ```Dask```, ```NLTK```, ```TableauHyperAPI```, ```NumPy```
+- **Python Libraries:** ```Pandas```, ```LangChain```, ```Boto3```, ```Dash```, ```Dask```, ```NLTK```, ```TableauHyperAPI```, ```NumPy```, ```PyODBC```, ```psycopg2```
 - **Data Visualization:** ```Plotly```, ```Matplotlib```, ```Seaborn```, ```ggplot```
 - **Tech Stack:** ```Visual Studio Code```, ```SSMS```, ```DBeaver```, ```Alteryx```, ```Tableau```, ```Advanced Excel```
 - **AWS Services:** ```Amazon Redshift```, ```Amazon S3 Buckets```, ```Amazon EC2```
