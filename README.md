@@ -2,22 +2,30 @@
 
 ### Summary
 
-Results-driven data engineer and business analyst with 2+ years of experience in planning, building and testing scalable data solutions that deliver impact. Proficient in Python, SQL, Alteryx and advanced Prompt Engineering, with experience in configuring internal automation solutions that leverage Custom GPTs. Proven track record in migrating Alteryx Designer 2020.3 workflows to robust and scalable Python and SQL-based ETL pipelines, optimizing data intensive I/O operations, thereby reducing manual migration efforts by 95% and turnaround time by 30% using Generative AI. Successfully led 5 intra-CoE technical sessions, including 3 focused on GenAI, and organized a one-day bootcamp for 115+ participants, upskilling them on Custom GPT configurations, API integration, best practices for engineering zero-defect prompts, and highlighting potential AI-driven solutions for accelerating client-facing processes within Bain's Retail CoE.
+Results-driven **Data Engineer, Backend Developer, and Business Analyst** with 2+ years of experience in designing, building, and testing scalable data and AI-driven solutions. Proficient in **Python, SQL, Alteryx, FastAPI, and advanced Prompt Engineering**, with expertise in leveraging **Generative AI and LLMs** for automation, analytics, and product development.  
+
+- Migrated **Alteryx Designer 2020.3 workflows** to robust Python & SQL-based ETL pipelines, optimising I/O-heavy processes and reducing manual migration efforts by **95%** and turnaround time by **30%** using GenAI.  
+- Designed and scaled a **Sentiment Analysis tool** for an **Australian Pub Chain**, enabling customer sentiment tracking and insights at scale.  
+- Built an **OCR-powered competitor intelligence tool** using **Azure Document Intelligence + GPT-5 LLM** for a **Dutch-Belgian multinational retail & wholesale holding company**, extracting SKU data from product images. Achieved **70% reduction in turnaround time** through parallel processing, caching, and image pre-processing techniques.  
+- Developed and deployed **backend services** with **Uvicorn, FastAPI, and SwaggerUI** for testing and production-grade scalability.  
+- Organised and led **5 intra-CoE technical sessions** (3 on GenAI) and a **1-day bootcamp for 115+ participants**, covering Custom GPT configuration, API integration, zero-defect prompt engineering, and AI-driven client-facing accelerators.  
 
 ### Awards
 
-- **Retail Spotlight Award** - Quarter 1, 2024, Bain & Company
-  - Recognized for outstanding performance and valuable contribution to the Retail CoE (Centre of Excellence).
-- **Retail Spotlight Award** - Quarter 4, 2024, Bain & Company
-  - Recognized for outstanding performance and valuable contribution to the Retail CoE (Centre of Excellence).
+- **Retail Spotlight Award** – Q1 2024, Bain & Company  
+  - Recognised for outstanding performance and valuable contribution to the Retail CoE.  
+- **Retail Spotlight Award** – Q4 2024, Bain & Company  
+  - Recognised for exceptional contributions and performance within the Retail CoE.  
+- **Retail Spotlight Award** – Q2 2025, Bain & Company  
+  - Awarded for exceptional performance, technical innovation, and impactful delivery within the Retail CoE.  
 
 ### Technical Skills
 
-- **Languages & Tools:** ```Python```, ```SQL```, ```C/C++```, ```HTML```, ```CSS```, ```Git```, ```OpenAI```
-- **Python Libraries:** ```Pandas```, ```LangChain```, ```Boto3```, ```Dash```, ```Dask```, ```NLTK```, ```TableauHyperAPI```, ```NumPy```, ```PyODBC```, ```psycopg2```
-- **Data Visualization:** ```Plotly```, ```Matplotlib```, ```Seaborn```, ```ggplot```
-- **Tech Stack:** ```Visual Studio Code```, ```SSMS```, ```DBeaver```, ```Alteryx```, ```Tableau```, ```Advanced Excel```
-- **AWS Services:** ```Amazon Redshift```, ```Amazon S3 Buckets```, ```Amazon EC2```
+- **Languages & Tools:** `Python`, `SQL`, `C/C++`, `HTML`, `CSS`, `Git`, `FastAPI`, `Uvicorn`, `SwaggerUI`, `OpenAI`  
+- **Python Libraries:** `Pandas`, `LangChain`, `Boto3`, `Dash`, `Dask`, `NLTK`, `TableauHyperAPI`, `NumPy`, `PyODBC`, `psycopg2`  
+- **Data Visualization:** `Plotly`, `Matplotlib`, `Seaborn`, `ggplot`  
+- **Tech Stack:** `Visual Studio Code`, `SSMS`, `DBeaver`, `Alteryx`, `Tableau`, `Advanced Excel`  
+- **Cloud & Services:** `Amazon Redshift`, `Amazon S3`, `Amazon EC2`, `Azure Document Intelligence`
 </br>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhpanda) to discuss analytics, data, or anything tech-related.
