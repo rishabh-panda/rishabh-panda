@@ -1,35 +1,99 @@
-## Hello, I'm Rishabh Panda!
+# Rishabh Panda
 
-### Summary
+Technology Consultant (Software & Data) · Bain & Company  
+Data Engineering | Backend Systems | Applied AI
 
-Results-driven **Data Engineer, Backend Developer, and Business Analyst** with 2+ years of experience in designing, building, and testing scalable data and AI-driven solutions. Proficient in **Python, SQL, Alteryx, FastAPI, and advanced Prompt Engineering**, with expertise in leveraging **Generative AI and LLMs** for automation, analytics, and product development.  
+---
 
-- Migrated **Alteryx Designer 2020.3 workflows** to robust Python & SQL-based ETL pipelines, optimising I/O-heavy processes and reducing manual migration efforts by **95%** and turnaround time by **30%** using GenAI.  
-- Designed and scaled a **Sentiment Analysis tool** for an **Australian Pub Chain**, enabling customer sentiment tracking and insights at scale.  
-- Built an **OCR-powered competitor intelligence tool** using **Azure Document Intelligence + GPT-5 LLM** for a **Dutch-Belgian multinational retail & wholesale holding company**, extracting SKU data from product images. Achieved **70% reduction in turnaround time** through parallel processing, caching, and image pre-processing techniques.  
-- Developed and deployed **backend services** with **Uvicorn, FastAPI, and SwaggerUI** for testing and production-grade scalability.  
-- Organised and led **5 intra-CoE technical sessions** (3 on GenAI) and a **1-day bootcamp for 115+ participants**, covering Custom GPT configuration, API integration, zero-defect prompt engineering, and AI-driven client-facing accelerators.  
+## About
 
-### Awards
+I build production systems that turn data and AI into clear, reliable business outcomes.
 
-- **Retail Spotlight Award** – Q1 2024, Bain & Company  
-  - Recognised for outstanding performance and valuable contribution to the Retail CoE.  
-- **Retail Spotlight Award** – Q4 2024, Bain & Company  
-  - Recognised for exceptional contributions and performance within the Retail CoE.  
-- **Retail Spotlight Award** – Q2 2025, Bain & Company  
-  - Awarded for exceptional performance, technical innovation, and impactful delivery within the Retail CoE.  
+My work focuses on:
+- Designing stable, well-tested data pipelines and backend services
+- Applying LLMs and automation in real client environments, not demos
+- Explaining complex systems in simple language so engineers, business teams, and leadership can work together
 
-### Technical Skills
+---
 
-- **Languages & Tools:** `Python`, `SQL`, `C/C++`, `HTML`, `CSS`, `Git`, `FastAPI`, `Uvicorn`, `SwaggerUI`, `OpenAI`  
-- **Python Libraries:** `Pandas`, `LangChain`, `Boto3`, `Dash`, `Dask`, `NLTK`, `TableauHyperAPI`, `NumPy`, `PyODBC`, `psycopg2`  
-- **Data Visualization:** `Plotly`, `Matplotlib`, `Seaborn`, `ggplot`  
-- **Tech Stack:** `Visual Studio Code`, `SSMS`, `DBeaver`, `Alteryx`, `Tableau`, `Advanced Excel`  
-- **Cloud & Services:** `Amazon Redshift`, `Amazon S3`, `Amazon EC2`, `Azure Document Intelligence`
-</br>
+## What I Work On
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhpanda) to discuss analytics, data, or anything tech-related.
-</br>
-</br>
-</br>
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabh-panda&theme=onedark&show_icons=true&count_private=true)
+Data pipelines feeding backend APIs that power analytics and AI products.
+
+Core areas:
+- Snowflake, Redshift, and Python-based data engineering
+- FastAPI-based backend services and orchestration
+- OCR, NLP, and LLM-enabled automation for decision support
+
+---
+
+## Experience Snapshot
+
+### Bain & Company · Technology Consultant  
+Intern → Analyst → Associate
+
+- Engineered end-to-end retail data platforms for a Mexico (CDMX) retail engagement by optimizing Snowflake SQL workflows, designing the pipeline orchestrator, and automating data refreshes and flat-file ingestion, improving reliability and client self-sufficiency.
+- Built the backend for an OCR + LLM competitor intelligence solution using Azure Document Intelligence and OpenAI foundation models, delivering approximately 70 percent faster turnaround for pricing intelligence and supplier negotiations.
+- Streamlined multi-stage Python data pipelines for a Spanish multinational retail and wholesaling corporation, reducing dashboard refresh times by roughly 90 percent and enabling near-real-time decision making.
+- Re-platformed Alteryx workflows to modular Python and SQL pipelines for UK and European retailers, removing paid license dependency and improving reporting turnaround by 25 to 80 percent while lowering costs.
+- Improved AWS Redshift SQL performance for a US wholesale food distributor, increasing ingestion efficiency and accelerating analytics delivery for pricing and supply planning teams.
+- Developed Python-based automation for a US warehouse club chain, delivering 50 percent faster SQL Server uploads and reducing manual effort by around 70 percent.
+- Designed and led the “Skill Spark” AI enablement initiative and bootcamps, training 115 plus consultants in Python, applied AI, prompt design, guardrails, and building tools with Azure OpenAI.
+- Created AleXPy, a Python and LangChain-based tool using foundation models to semi-automate Alteryx to Python migration, cutting development effort by 75 to 80 percent and successfully piloted in a live Spanish retail consulting case.
+- Recipient of multiple Retail Spotlight Awards (Q1 2024, Q4 2024, Q2 2025) for exceptional client delivery and contributions to the Retail Centre of Excellence.
+
+---
+
+### HighRadius · Product Engineer
+
+- Built Python-based data pipelines for an AI-enabled B2B invoice management platform, improving scalability of high-volume accounts receivable data flows.
+- Optimized SQL using CTEs, stored procedures, and indexing strategies to accelerate order-to-cash workflows and reporting.
+- Designed data validation and quality testing frameworks to improve reliability and alignment with business objectives.
+
+---
+
+### IIT Kharagpur · Researcher (Remote Sensing and Geospatial Analytics)
+
+- Estimated ground displacement and deformation rates in the San Francisco Bay Area using ERS-1 and ERS-2 satellite data.
+- Applied the PSInSAR technique using Python and MATLAB to measure large-scale ground movement patterns.
+- Collaborated with a multidisciplinary research team to improve the STUN algorithm for higher precision remote sensing analysis.
+
+---
+
+## Skills and Tools
+
+Languages:  
+Python, SQL, C/C++, HTML, CSS
+
+Data and AI:  
+Pandas, Dask, LangChain, NLTK, NumPy, TableauHyperAPI, PyODBC, psycopg2
+
+Backend and APIs:  
+FastAPI, Uvicorn, OpenAPI and SwaggerUI, RESTful service design
+
+Data Platforms and Cloud:  
+Snowflake, Amazon Redshift, Amazon S3, Amazon EC2, Azure Document Intelligence
+
+Analytics and BI:  
+Alteryx, Tableau, Advanced Excel, Plotly, Matplotlib, Seaborn, ggplot
+
+Tooling and Workflow:  
+Visual Studio Code, SSMS, DBeaver, Git with branching, code review, and release workflows
+
+---
+
+## How I Work
+
+- I prioritize clarity, maintainability, and correctness over clever shortcuts.
+- I design systems that non-technical teams can operate safely with minimal support.
+- I evaluate success using stability, speed, cost reduction, and decision impact.
+
+---
+
+## GitHub Activity
+
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabh-panda&show_icons=true&count_private=true&theme=onedark)
+
+---
+
+LinkedIn: https://www.linkedin.com/in/rishabhpanda
