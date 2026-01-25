@@ -1,6 +1,6 @@
 # Rishabh Panda
 
-Technology Consultant (Software & Data) · Bain & Company  
+[Technology Consultant (Software & Data)](https://www.linkedin.com/in/rishabhpanda), Bain & Company, New Delhi</br>  
 Data Engineering | Backend Systems | Applied AI
 
 ---
@@ -96,4 +96,5 @@ Visual Studio Code, SSMS, DBeaver, Git with branching, code review, and release 
 
 ---
 
-LinkedIn: https://www.linkedin.com/in/rishabhpanda
+## Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh-panda&theme=github-compact&hide_border=true)
