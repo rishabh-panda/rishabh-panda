@@ -21,7 +21,7 @@ My work focuses on:
 Data pipelines feeding backend APIs that power analytics and AI products.
 
 Core areas:
-- Snowflake, Redshift, and Python-based data engineering
+- Snowflake, Redshift, Google Suite, SSMS and Python-based data engineering
 - FastAPI-based backend services and orchestration
 - OCR, NLP, and LLM-enabled automation for decision support
 
@@ -72,7 +72,7 @@ Backend and APIs:
 FastAPI, Uvicorn, OpenAPI and SwaggerUI, RESTful service design
 
 Data Platforms and Cloud:  
-Snowflake, Amazon Redshift, Amazon S3, Amazon EC2, Azure Document Intelligence
+Snowflake, Amazon Redshift, Amazon S3, Amazon EC2, Azure Document Intelligence, Google Suite
 
 Analytics and BI:  
 Alteryx, Tableau, Advanced Excel, Plotly, Matplotlib, Seaborn, ggplot
