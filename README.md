@@ -19,9 +19,10 @@ My work focuses on:
 Data pipelines feeding backend APIs that power analytics and AI products.
 
 Core areas:
-- Snowflake, Redshift, Google Suite, SSMS and Python-based data engineering
-- FastAPI-based backend services and orchestration
-- OCR, NLP, and LLM-enabled automation for decision support
+- `Snowflake`, `Redshift`, `Google Suite`, `SSMS` and `Python`-based data engineering
+- `FastAPI`-based backend services and orchestration
+- `OCR`, `NLP`, and `LLM`-enabled automation for decision support
+- `Docker` for application containerization
 
 ---
 
