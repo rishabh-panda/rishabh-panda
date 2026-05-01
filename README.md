@@ -1,7 +1,7 @@
 # Rishabh Panda
 
-[Technology Consultant (Software & AI)](https://www.linkedin.com/in/rishabhpanda), Bain & Company, New Delhi</br>  
-Data Engineering | Backend Systems | Applied AI
+[Technology Consultant](https://www.linkedin.com/in/rishabhpanda), Bain & Company, New Delhi</br>  
+I blend software engineering, business strategy, and AI to build production‑grade systems that turn data interesting.
 
 ---
 
