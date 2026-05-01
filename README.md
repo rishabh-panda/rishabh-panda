@@ -23,7 +23,7 @@
 
 <br/>
 
-> *I blend software engineering, business strategy, and AI to build production-grade systems that turn data into decisions.*
+> *I blend software engineering, business strategy, and AI to build production‑grade systems that make data feel alive—turning raw numbers into clear, fast‑moving insights that teams actually use.*
 
 ---
 
