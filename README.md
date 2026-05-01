@@ -34,9 +34,9 @@
 I'm a Technology Consultant at **Bain & Company**, working at the intersection of data engineering, AI, and strategic advisory. My work spans real-world client environments. From retail giants to wholesale distributors, where I design systems that are reliable, fast, and easy for both technical and non-technical teams to own.
 
 I care deeply about three things:
-- **Stability** —> systems that work predictably at scale
-- **Clarity** —> making complex ideas legible to every stakeholder
-- **Impact** —> measuring success by outcomes, not output
+- **Stability:** systems that work predictably at scale
+- **Clarity:** making complex ideas legible to every stakeholder
+- **Impact:** measuring success by outcomes, not output
 
 ---
 
