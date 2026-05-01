@@ -7,11 +7,9 @@ I blend software engineering, business strategy, and AI to build production‑gr
 
 ## About
 
-I build production systems that turn data and AI into clear, reliable business outcomes.
-
 My work focuses on:
 - Designing stable, well-tested data pipelines and backend services
-- Applying LLMs and automation in real client environments, not demos
+- Applying LLMs and automation in real client environments
 - Explaining complex systems in simple language so engineers, business teams, and leadership can work together
 
 ---
