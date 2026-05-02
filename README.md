@@ -52,7 +52,7 @@ I care deeply about three things:
 
 | Domain | Impact |
 |--------|--------|
-| **`Snowflake` Retail Data Orchestration Engine** (Client Site - Mexico) | Designed and scaled `Snowflake SQL` workflows, building an orchestration pipeline that automated quarterly retail data refreshes and enabled reliable client-side deployment |
+| **`Snowflake` Retail Data Orchestration Engine** (Client Site - 🇲🇽 Mexico) | Designed and scaled `Snowflake SQL` workflows, building an orchestration pipeline that automated quarterly retail data refreshes and enabled reliable client-side deployment |
 | **Supply Chain & Warehouse-Store Route Optimisation** (Client Site - Australia) | Developed mathematical algorithms in `Python` and managed large-scale data pipelines using `Google Cloud SQL` for daily analytics and monitoring for an Australian alcoholic drinks retailer. |
 | **OCR + LLM Intelligence Tool** (Client Site - Netherlands) | Built backend using `Azure Document Intelligence` + `OpenAI` models; delivered **~70% faster** turnaround for pricing intelligence, competitor benchmarking and supplier negotiations |
 | **`Python` Pipeline Modernization** (Client Site - Spain) | Streamlined multi-stage pipelines for a leading Spanish retailer, reducing dashboard refresh times by **~80%** and enabling near-real-time decisions |
