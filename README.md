@@ -72,7 +72,7 @@ I care deeply about three things:
 ### HighRadius &nbsp;·&nbsp; Product Engineer
 
 - Built `Python` data pipelines for an AI-enabled B2B invoice management platform, improving scalability of high-volume accounts receivable flows
-- Optimized `SQ`L using CTEs, stored procedures, and indexing strategies to accelerate order-to-cash workflows
+- Optimized `SQL` using CTEs, stored procedures, and indexing strategies to accelerate order-to-cash workflows
 - Designed `data validation` and `quality testing` frameworks to improve reliability and business alignment
 
 ---
