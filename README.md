@@ -54,7 +54,7 @@ I care deeply about three things:
 |--------|--------|
 | **`Snowflake` Retail Data Orchestration Engine** (Client Site - Mexico) | Designed and scaled `Snowflake SQL` workflows, building an orchestration pipeline that automated quarterly retail data refreshes and enabled reliable client-side deployment |
 | **OCR + LLM Intelligence Tool** (Client Site - Netherlands) | Built backend using `Azure Document Intelligence` + `OpenAI` models; delivered **~70% faster** turnaround for pricing intelligence, competitor benchmarking and supplier negotiations |
-| **`Python` Pipeline Modernization** (Client Site - Spain) | Streamlined multi-stage pipelines for a leading retailer, reducing dashboard refresh times by **~80%** and enabling near-real-time decisions |
+| **`Python` Pipeline Modernization** (Client Site - Spain) | Streamlined multi-stage pipelines for a leading Spanish retailer, reducing dashboard refresh times by **~80%** and enabling near-real-time decisions |
 | **`Alteryx` → `Python` Migration** (Client Site - UK & Europe) | Re-platformed `Alteryx Designer` workflows to modular `Python`/`Transact-SQL`, removing paid license dependency and improving reporting turnaround by **60%** |
 | **`AWS Redshift` Optimization** (Client Site - USA) | Improved SQL data ingestion efficiency by leveraging `Apache Parquet` file formats, accelerating analytics delivery for pricing and supply planning |
 | **`SQL Server` Automation** (Client Site - US Warehouse Clubchain) | `Python` automation delivered **50% faster** large file uploads and reduced manual effort by **~70%** |
