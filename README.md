@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Consultant-Bain%20%26%20Company-CC0000?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Backend-1f2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Expertise-ETL%20Solutions-4b2255?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Expertise-ETL%20Solutions%20|%20GenAI-4b2255?style=for-the-badge"/>
 </p>
 
 <!-- Intro -->
