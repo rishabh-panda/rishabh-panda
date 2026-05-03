@@ -7,7 +7,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Consultant-Bain%20%26%20Company-CC0000?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <a href="https://www.bain.com">
+    <img src="https://img.shields.io/badge/Consultant-Bain%20%26%20Company-CC0000?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Backend-1f2937?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Expertise-ETL%20Solutions-4b2255?style=for-the-badge"/>
 </p>
@@ -17,8 +19,10 @@
   <a href="https://www.linkedin.com/in/rishabhpanda">
     <img src="https://img.shields.io/badge/LinkedIn-rishabhpanda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-New%20Delhi-F97316?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-AI%20Research-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <a href="https://maps.app.goo.gl/2kJLs7XrLCX1GuEs9">
+    <img src="https://img.shields.io/badge/Location-New%20Delhi-F97316?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Research-000077?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 <br/>
