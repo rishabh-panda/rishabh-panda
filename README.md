@@ -57,13 +57,13 @@ I care deeply about three things:
 | Domain | Impact |
 |--------|--------|
 | **`Snowflake` Retail Data Orchestration Engine** (Client Site - Mexico) | Designed and scaled `Snowflake SQL` workflows, building an orchestration pipeline that automated quarterly retail data refreshes and enabled reliable client-side deployment |
-| **Supply Chain & Warehouse-Store Route Optimisation** (Client Site - Australia) | Developed mathematical algorithms in `Python` and managed large-scale data pipelines using `Google Cloud SQL` for daily analytics and monitoring for an Australian alcoholic drinks retailer. |
-| **OCR + LLM Intelligence Tool** (Client Site - Netherlands) | Built backend using `Azure Document Intelligence` + `OpenAI` models; delivered **~70% faster** turnaround for pricing intelligence, competitor benchmarking and supplier negotiations |
-| **`Python` Pipeline Modernization** (Client Site - Spain) | Streamlined multi-stage pipelines for a leading Spanish retailer, reducing dashboard refresh times by **~80%** and enabling near-real-time decisions |
+| **Supply Chain & Warehouse-Store Route Optimisation** (Client Site - Australia) | Developed `Python` scripts and managed large-scale data pipelines using `Google Cloud SQL` for supply chain and store-warehouse route optimisation for an Australian alcoholic drinks retailer. |
+| **OCR + LLM Intelligence Tool** (Client Site - Netherlands) | Built backend for vendor using `Azure Document Intelligence` + `OpenAI` models; delivered **~70% faster** turnaround for pricing intelligence, competitor benchmarking and supplier negotiations |
+| **`Python` Pipeline Revamp** (Client Site - Spain) | Streamlined multi-stage pipelines for a leading Spanish retailer, reducing dashboard refresh times by **~80%** and enabling near-real-time decisions |
 | **`Alteryx` → `Python` Migration** (Client Site - UK & Ireland) | Re-platformed `Alteryx Designer` workflows to modular `Python`+`Transact-SQL` scripts, removing "_paid license dependency_" and improving reporting turnaround by **60%** |
-| **`AWS Redshift` Optimization** (Client Site - USA) | Improved SQL data ingestion efficiency by leveraging `Apache Parquet` file formats, accelerating analytics delivery for pricing and supply planning |
+| **`AWS Redshift` Optimization** (Client Site - USA) | Improved `SQL` data ingestion efficiency by leveraging `Apache Parquet` file formats, accelerating analytics delivery for pricing and supply planning |
 | **`SQL Server` Automation** (Client Site - US Warehouse Clubchain) | `Python` automation delivered **50% faster** large file uploads and reduced manual effort by **~70%** |
-| **Skill Spark AI Bootcamp** | Designed and led AI enablement program training **115+ consultants** in `Python`, `Prompt Engineering`, and `Azure OpenAI` tools |
+| **Skill Spark AI Bootcamp** | Designed and led AI enablement program training **115+ consultants** in `Python`, and `GenAI` for rapid prototyping to bridge the gap between technical/business professionals |
 | **`AleXPy` — Production-Grade Vibe Coding Prototype** | Built a `LangChain`-powered migration tool to semi-automate `Alteryx` to `Python` data workflow conversion, cutting development effort by **75%** |
 
 </details>
