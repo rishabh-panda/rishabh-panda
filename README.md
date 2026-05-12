@@ -47,7 +47,7 @@ I care deeply about three things:
 ## Experience
 
 ### Bain & Company &nbsp;·&nbsp; Technology Consultant
-`Associate Consultant` &nbsp;|&nbsp; New Delhi, India
+`Associate` &nbsp;|&nbsp; New Delhi, India
 
 <details open>
 <summary><b>Key Contributions</b></summary>
