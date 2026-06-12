@@ -54,7 +54,18 @@ I care deeply about three things:
 
 <br/>
 
-| Domain | Impact |
+- Identified $20M–$30M in cost-reduction opportunities and $120M–$175M in lost sales from stock shortages for Australia’s largest drinks retail network and licensed hotel portfolio, informing the transformation roadmap through trade-off analysis and prioritization of first-wave pilot stores. Built Google BigQuery (SQL) data pipelines and Python optimization models to analyze supply chain performance and optimize warehouse-to-store distribution routes across Australia.
+- Led a cross-functional initiative with the Data & Insights CoE to scale the Retail App Store’s semantic matching tool into a Euromonitor taxonomy mapping solution, achieving ~90% classification accuracy, reducing manual effort from months to weeks, and embedding Human-in-the-Loop controls to drive adoption and trust in AI-generated outputs.
+- Engineered a sentiment analysis solution that quantified customer sentiment drivers across brands and themes, supporting a Swiss cruise line service provider's expedition strategy by informing proposition design, market positioning, and business-case sensitivities.
+- Built and deployed Snowflake SQL pipelines for an American convenience store chain’s buy-to-grow program in Mexico, powering category strategy and supplier negotiations within a broader transformation program targeting EBITDA growth.
+- Built ImageIQ, an AI-powered competitor benchmarking tool that automated product-specification extraction across 1,000 competitor SKUs in six European markets, supporting a Dutch-Belgian retail and wholesale group’s private-label sourcing program and identifying €11–31M in savings opportunities.
+- Enhanced a leading Spanish retailer’s should-cost model by replacing broad commodity proxies with ingredient-level benchmarks and localized cost assumptions, identifying ~€0.4M in additional annual savings and increasing the total opportunity to ~€7.6M.
+- Designed and implemented Python automation for an Australian pharmaceutical company’s COGS program, enabling Bain’s ARB toolkit and a repeatable supplier negotiation process that generated 2.0% COGS savings.
+- Developed Python/PostgreSQL data pipelines for a leading British & Irish wholesale restaurant food distributor, supporting a broader multi-country transformation that delivered ~15% gross margin uplift and €160M additional gross profit, with 9 tools embedded into client systems assisting them in making improved Better Buying and Better Selling decisions.
+
+<br/>
+
+| Tech Domain | Impact |
 |--------|--------|
 | **`Snowflake` Retail Data Orchestration Engine** (Client Site - Mexico) | Designed and scaled `Snowflake SQL` workflows, building an orchestration pipeline that automated quarterly retail data refreshes and enabled reliable client-side deployment |
 | **Supply Chain & Warehouse-Store Route Optimisation** (Client Site - Australia) | Developed `Python` scripts and managed large-scale data pipelines using `Google Cloud SQL` for supply chain and store-warehouse route optimisation for an Australian alcoholic drinks retailer. |
@@ -64,7 +75,7 @@ I care deeply about three things:
 | **`AWS Redshift` Optimization** (Client Site - USA) | Improved `SQL` data ingestion efficiency by leveraging `Apache Parquet` file formats, accelerating analytics delivery for pricing and supply planning |
 | **`SQL Server` Automation** (Client Site - US Warehouse Clubchain) | `Python` automation delivered **50% faster** large file uploads and reduced manual effort by **~70%** |
 | **Skill Spark AI Bootcamp** | Designed and led AI enablement program training **115+ consultants** in `Python`, and `GenAI` for rapid prototyping to bridge the gap between technical/business professionals |
-| **`AleXPy` — Production-Grade Vibe Coding Prototype** | Built a `LangChain`-powered migration tool to semi-automate `Alteryx` to `Python` data workflow conversion, cutting development effort by **75%** |
+| **`AleXPy` — Production-Grade Prototype** | Built a `LangChain`-powered migration tool to semi-automate `Alteryx` to `Python` data workflow conversion, cutting development effort by **75%** |
 
 </details>
 
